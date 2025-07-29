@@ -3,6 +3,7 @@
   box-sizing: border-box;
 }
 p {
-  color: blue;
+  color: red;
   font-size: 15px;
+  background-color: lightblue;
 }
